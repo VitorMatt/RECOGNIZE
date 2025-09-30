@@ -28,7 +28,7 @@
 
 ### Clonar o repositório
 
-```git clone [https://github.com/VitorMatt/recognize.git]```
+```git clone https://github.com/VitorMatt/recognize.git```
 
 ### Entrar na pasta
 
