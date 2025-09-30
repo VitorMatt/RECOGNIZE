@@ -1,0 +1,16 @@
+{
+  "name": "recognize",
+  "type": "module",
+  "scripts": {
+    "server": "cd back && npm start",
+    "client": "cd front && npm start",
+    "start": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "vite": "^7.1.7"
+  }
+}
