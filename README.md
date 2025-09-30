@@ -53,7 +53,7 @@ npm start // -> Na pasta raíz do projeto
 
 [http://localhost:5173]
 
-🔮 ### Futuras melhorias
+# 🔮 Futuras melhorias
 
 Integração com múltiplos idiomas
 
